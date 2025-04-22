@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'GitPP AI BOOK'
+copyright = '2025, yuanzhongqiao'
+author = 'Yuan Zhongqiao'
 
 release = '0.1'
 version = '0.1.0'
